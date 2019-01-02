@@ -13,8 +13,8 @@
 
 
 -- Dumping database structure for test
-CREATE DATABASE IF NOT EXISTS `test` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `test`;
+CREATE DATABASE IF NOT EXISTS `outspuiz` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `outspuiz`;
 
 -- Dumping structure for table test.users
 CREATE TABLE IF NOT EXISTS `users` (
